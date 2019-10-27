@@ -1,1 +1,2 @@
-console.log('Webpack wizard!!!')
+// eslint-disable-next-line no-console
+console.log('Webpack wizard!!!');
